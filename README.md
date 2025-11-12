@@ -11,11 +11,13 @@ Each project focuses  on a different ML concept - from regression and classifica
 
 ## 📚 Table of Contents 
 
-1. 🏠 [project 1: House Price Prediction (Regression)](https://github.com/bless643/machine-learning-project/blob/main/project_1_House_Price_Prediction)
+1. 🏠 [project 1: House Price Prediction (Regression)](https://github.com/bless643/machine-learning-project/tree/main/Project_1_House_Price_Prediction)
 
-2. 📩  [project 2: Spam Email Classifier (classification)](https://github.com/bless643/machine-learning-project/blob/main/Project_2_spam_Classifier/)
 
-3. 👥 [project 3: Customer Segmentation (clustering)](https://github.com/bless643/machine-learning-project/blob/main/project_3_customer_Segmentation/)
+
+2. 📩  [project 2: Spam Email Classifier (classification)](https://github.com/bless643/machine-learning-project/tree/main/Project_2_Spam_Classifier)
+
+3. 👥 [project 3: Customer Segmentation (clustering)](https://github.com/bless643/machine-learning-project/tree/main/project_3_customer_Segmentation/)
 
 ---
 
